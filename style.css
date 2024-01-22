@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #e0e0e0;
+}
+
+.container {
+    width: 42vw;
+    height: 80vh;
+    margin: 10vh auto;
+    /* vertical-align: middle; */
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow: 20px -20px 60px #bebebe,
+        -20px 20px 60px #ffffff;
+}
+
+input {
+    bottom: 3vh;
+    /* display: flex; */
+    width: 33vw;
+    height: 6vh;
+    padding: 12px 12px;
+    border: none;
+    border-radius: 50px;
+    background: #f3f3f3;
+    box-shadow: 20px -20px 60px #bebebe,
+        -20px 20px 60px #ffffff;
+    left: 2vw;
+    position: absolute;
+}
+
+.h1-bg {
+    top: 0;
+    left: 0.0vw;
+    position: absolute;
+    /* z-index: 10; */
+    width: 42vw;
+    height: 7vh;
+    background-color: #000;
+    border-radius: 50px 50px 0 0;
+}
+
+h1 {
+    /* position: absolute; */
+    z-index: 10;
+    color: #d4d4d4;
+    top: 0px;
+    padding: 7px;
+    /* left: 43vw; */
+    font-size: 24px;
+    text-align: center;
+    /* max-width: 35vw; */
+    /* background: #000; */
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+img {
+    bottom: 3vh;
+    position: absolute;
+    right: 1.6vw;
+    height: 6vh;
+    width: 4.3vw;
+    cursor: pointer;
+}
+
+.greetings {
+    position: absolute;
+    top: 7vh;
+}
+
+.ques1 {
+    position: absolute;
+    top: 11vh;
+}
+
+#quiz-container {
+
+    position: absolute;
+    top: 7vh;
+}
+
+#quiz-container1 {
+
+    position: absolute;
+    top: 7vh;
+}
+
+.sabsebada{
+    margin: 12px 20px;
+    padding: 2px 2px;
+    font-size: x-large;
+}
+
+.options {
+    display: inline;
+    margin: 6px;
+    background-color: #0c0c0c;
+    color: white;
+    padding: 3px 12px;
+    border: none;
+    border-radius: 12px;
+
+}
+
+.questionHaiyeh {
+    margin: 12px 20px;
+    padding: 2px 2px;
+}
+
+.option-box {
+    font-size: 15px;
+    background-color: rgba(177, 175, 175, 0.444);
+    border: none;
+    border-radius: 12px;
+    padding: 1px 6px;
+}

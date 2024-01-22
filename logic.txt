@@ -1,0 +1,26 @@
+>> Hey!!, Do you want to book a hotel room ?  >> no
+>>>> yes 
+
+>> That's great!!,  please select any states where you want to book a room
+>>>>["Punjab", "j&k", "Dehli", "Bihar"]
+>> please select your city. 
+>for punjab ["Bathinda","Mohali","Chandigarh","Amritsar"]
+>for j&k ["Srinagar","Jammu","Anantnag","Barmulla"]
+>for Dehli["Near CP", "Near red fort", "Near nehru palace"]
+>for Bihar["Patna","Siwan","Rajgir","Arra"]
+
+> Okay, let's select the Royality
+>>>>["5star", "4star", "3star"]
+
+>for 5star ["Hotel royal INN","Hotel Saphire INN"]
+>for 4star ["krishna hotel","babu hotel"]
+>for 3star ["paras hotel", "chirag hotel"]
+
+>>>for all 
+
+>> Thankyou for booking hotel from our website your ticket no.random number 
+
+
+8528567829
+
+2850 6m 75mb
